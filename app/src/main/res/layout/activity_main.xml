@@ -53,6 +53,30 @@
             android:id="@+id/button_main_insert" />
         </LinearLayout>
 
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="결과보기"
+                android:layout_weight="5"
+                android:id="@+id/button_main_result" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="결과보기"
+                android:layout_weight="5"
+                android:id="@+id/button_show_ranking" />
+        </LinearLayout>
+
 
         <TextView
             android:layout_width="match_parent"
@@ -61,5 +85,7 @@
 
 
     </LinearLayout>
+
+
 
 </android.support.constraint.ConstraintLayout>
