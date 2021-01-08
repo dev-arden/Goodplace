@@ -23,7 +23,10 @@
 
 ## 관련 깃헙 링크
 * 서버 파트 : <https://github.com/smulionOong/networking_graduate>
-* 알고리즘 파트 : <https://github.com/smulionOong/algorithm_odsay2>
+* 알고리즘#1 : 
+* 알고리즘#2 :
+* 알고리즘#3 : 
+* 알고리즘#4 : <https://github.com/smulionOong/algorithm_odsay2>
 * 모바일(안드로이드)#1 : <https://github.com/smulionOong/Goodplace>
 * 모바일(안드로이드)#2 : <https://github.com/smulionOong/Goodplace2_MAP>
 * 기타(API 적용해본 코드) : <https://github.com/smulionOong/algorithm_odsay>
